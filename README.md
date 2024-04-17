@@ -2,3 +2,4 @@
 Nicolas Matheus
 Vitor Eduardo
 Giovanna Pessoa
+Yago de Souza
